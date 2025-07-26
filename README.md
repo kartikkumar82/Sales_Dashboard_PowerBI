@@ -57,8 +57,9 @@ The dashboard is powered by a sample sales dataset which includes the following 
 
 ---
 
-## 📂 How to Use
+## 📂 About
 
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/your-username/sales-dashboard-powerbi.git
+**Author - Kartik Kumar**
+
+linkedin - www.linkedin.com/in/kartikkumar82
+Email - kartikkumar1800089@gmail.com
