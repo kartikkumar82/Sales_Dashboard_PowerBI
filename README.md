@@ -1,6 +1,6 @@
 # 🧾 Power BI Sales Dashboard
 
-![Dashboard_src.png)
+<img src= "Dashboard_src.png" />
 
 ## 📊 Overview
 
