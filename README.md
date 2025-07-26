@@ -1,6 +1,6 @@
 # 🧾 Power BI Sales Dashboard
 
-![Dashboard Screenshot](./Screenshot%202025-07-26%20134051.png)
+![Dashboard_src.png)
 
 ## 📊 Overview
 
