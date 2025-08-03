@@ -57,7 +57,7 @@ The dashboard is powered by a sample sales dataset which includes the following 
 
 ---
 
-## 📂 About
+## 📂 Contact
 
 **Author - Kartik Kumar**
 
